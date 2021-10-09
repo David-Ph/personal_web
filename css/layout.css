@@ -203,7 +203,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #afacac;
 }
 #about .profile-pic {
    position: relative;
@@ -526,7 +526,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .popup-modal .description-box p {
 	font: 14px/24px 'opensans-regular', sans-serif;
-   color: #A1A1A1;
+   color: #626262;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
