@@ -4,14 +4,16 @@
 .stack-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .stack-item {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 20%;
 }
 .stack-item img {
   text-align: center;
-  width: 50px;
+  width: 100%;
+  max-width: 60px;
 }
