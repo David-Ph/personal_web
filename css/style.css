@@ -1,0 +1,17 @@
+.fa {
+  margin-right: 0.5em;
+}
+.stack-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.stack-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stack-item img {
+  text-align: center;
+  width: 50px;
+}
